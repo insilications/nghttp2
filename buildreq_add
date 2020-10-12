@@ -1,9 +1,24 @@
 # This file contains additional build requirements that did not get
 # picked up automatically. One name per line, no whitespace.
-xz-dev
-libxml2-dev
 boost-dev
-libxml2-dev32
-xz-dev32
-libevent-dev32
+buildreq-cmake
+buildreq-golang
 Cython
+gcc-dev32
+gcc-libgcc32
+gcc-libstdc++32
+glibc-dev32
+glibc-libc32
+glibc-staticdev
+libev-dev
+libevent-dev32
+libxml2-dev
+libxml2-dev32
+libxml2-staticdev
+pkg-config
+xz-dev
+xz-dev32
+xz-staticdev
+openssl-dev
+openssl-staticdev
+openssl-dev32

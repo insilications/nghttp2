@@ -1,2 +1,14 @@
 # This file contains additional pkgconfig build requirements that did
 # not get picked up automatically. One name per line, no whitespace.
+32cunit
+32libevent_openssl
+32libsystemd
+32libxml-2.0
+32openssl
+32zlib
+cunit
+libevent_openssl
+libsystemd
+libxml-2.0
+openssl
+zlib
